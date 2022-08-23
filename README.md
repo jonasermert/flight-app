@@ -1,6 +1,9 @@
 # FlightApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+Dieses Tutorial projekt stammt aus dem Buch "Einführung in Angular" von Manfred Steyer (https://leanpub.com/einfhrung-in-angular)
+
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3. 
 
 ## Development server
 
